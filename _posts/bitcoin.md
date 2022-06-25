@@ -5,7 +5,7 @@ coverImage: '/assets/blog/preview/bit.jpg'
 date: '2020-06-24T05:35:07.322Z'
 author: 
   name: Robert Lawrence (CTO & Lead Developer)
-  picture: '/assets/blog/authors/Rpb.Jpeg'
+  picture: '/assets/blog/authors/Rpb.jpeg'
 ogImage:
   url: '/assets/blog/hello-world/cover.jpg'
 ---
