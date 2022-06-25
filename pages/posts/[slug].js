@@ -27,7 +27,7 @@ export default function Post({ post, morePosts, preview }) {
             <article className="mb-32">
               <Head>
                 <title>
-                  {post.title} | Carolina Crypto Collab {CMS_NAME}
+                  {post.title} | Carolina Crypto Collab Blog {CMS_NAME}
                 </title>
                 <meta property="og:image" content={post.ogImage.url} />
               </Head>
