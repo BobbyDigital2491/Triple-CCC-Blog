@@ -5,7 +5,7 @@ coverImage: '/assets/blog/preview/v.jpg'
 date: '2022-03-16T05:35:07.322Z'
 author:
   name: Robert Lawrence
-  picture: '/assets/blog/authors/rpb.jpeg'
+  picture: '/assets/blog/authors/Rpb.jpeg'
 ogImage:
   url: '/assets/blog/preview/cover.jpg'
 ---
