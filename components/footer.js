@@ -17,7 +17,7 @@ export default function Footer() {
               Follow us
             </a>
             <a
-              href={`https://github.com/vercel/next.js/tree/canary/examples/${EXAMPLE_PATH}`}
+              href={`https://carolinacryptocollab.xyz/${EXAMPLE_PATH}`}
               className="mx-3 font-bold hover:underline"
             >
               View on GitHub
