@@ -7,7 +7,7 @@ author:
   name: Robert Lawrence (CTO & Lead Developer)
   picture: '/assets/blog/authors/Rpb.jpeg'
 ogImage:
-  url: '/assets/blog/hello-world/cover.jpg'
+  url: '/assets/blog/preview/cover.jpg'
 ---
 
 ## Proof of Stake
