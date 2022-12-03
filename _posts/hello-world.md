@@ -28,4 +28,7 @@ Stay safe: The world of crypto can be volatile and risky, so it is important to 
 
 Crypto is a fascinating and rapidly evolving technology that has the potential to revolutionize the way we conduct transactions and store value. By understanding the basics and taking the necessary precautions, you can begin to explore the world of crypto and discover its potential benefits.
 
+## In Conclusion
+ By understanding the basics and taking the necessary precautions, you can begin to explore the world of crypto and discover its potential benefits. Always do your own research. Know what you own and why you own it and always remember...... Not your keys not your wallet!!!
+
 
