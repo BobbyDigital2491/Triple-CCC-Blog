@@ -9,10 +9,6 @@ author:
 ogImage:
   url: '/assets/blog/preview/cover.jpg'
 ---
-## So what's a NFT?
-An NFT stands for a non fungible token. Non Fungible means it is unique and can’t be replaced with something else. It is a digital asset that represents real-world objects like art, music, in-game items and videos.
-
-
 ## What does fungible mean?
 
 In economics, fungibility is the property of a good or a commodity whose individual units are essentially interchangeable and each of those parts are indistinguishable from another part. For example, gold is fungible since a specified amount of pure gold is equivalent to that same amount of pure gold, whether in the form of coins, ingots, or in other states. Examples of other fungible commodities include crude oil, company shares, bonds, other precious metals, and currencies.
