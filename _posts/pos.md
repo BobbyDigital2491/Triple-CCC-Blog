@@ -1,7 +1,7 @@
 ---
 title: Proof of Stake
 excerpt: 'Proof of work (PoW) is a consensus algorithm that is used by many blockchain networks to achieve distributed consensus and secure the network...'
-coverImage: '/assets/blog/preview/pow.png'
+coverImage: '/assets/blog/preview/pos.png'
 date: '2020-06-24T05:35:07.322Z'
 author: 
   name: Robert Lawrence (CTO & Lead Developer)
