@@ -1,7 +1,7 @@
 ---
 title: What is HODL?
 excerpt: 'In this article we define what it means to HODL ...'
-coverImage: '/assets/blog/preview/bit.jpg'
+coverImage: '/assets/blog/preview/just-hodl-it-ulya-girls.jpg'
 date: '2020-06-24T05:35:07.322Z'
 author: 
   name: Robert Lawrence (CTO & Lead Developer)
