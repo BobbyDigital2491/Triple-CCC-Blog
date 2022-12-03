@@ -1,13 +1,13 @@
 ---
-title: Proof pf Stake?
-excerpt:'In a PoS blockchain network, users (known as validators or stakers) hold and stake a certain amount of the network's native cryptocurrency in order to participate in the validation of transactions and the creation of new blocks.....'
-coverImage: '/assets/blog/preview/pow.png'
+title: Proof of Stake
+excerpt: 'In a PoS blockchain network, users (known as validators or stakers) hold and stake a certain amount of the network's native cryptocurrency in order to participate...'
+coverImage: '/assets/blog/preview/pos.png'
 date: '2020-06-24T05:35:07.322Z'
 author: 
   name: Robert Lawrence (CTO & Lead Developer)
   picture: '/assets/blog/authors/Rpb.jpeg'
 ogImage:
-  url: '/assets/blog/preview/cover.jpg'
+  url: '/assets/blog/hello-world/cover.jpg'
 ---
 
 ## Proof of Stake
