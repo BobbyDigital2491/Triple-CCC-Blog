@@ -1,7 +1,7 @@
 ---
 title: Polygon(MATIC)?
 excerpt: 'Polygon (formerly known as Matic Network) is a decentralized platform that uses Ethereum as its underlying blockchain....'
-coverImage: '/assets/blog/preview/bit.jpg'
+coverImage: '/assets/blog/preview/polygonlogo.png'
 date: '2020-06-24T05:35:07.322Z'
 author: 
   name: Robert Lawrence (CTO & Lead Developer)
