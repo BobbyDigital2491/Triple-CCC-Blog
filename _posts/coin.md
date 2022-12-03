@@ -1,3 +1,15 @@
+---
+title: Coins vs Tokens
+excerpt: 'In the world of cryptocurrency, the terms "tokens" and "coins" are often used interchangeably...'
+coverImage: '/assets/blog/preview/coin.png'
+date: '2020-06-24T05:35:07.322Z'
+author: 
+  name: Robert Lawrence (CTO & Lead Developer)
+  picture: '/assets/blog/authors/Rpb.jpeg'
+ogImage:
+  url: '/assets/blog/hello-world/cover.jpg'
+---
+
 ## What is a Coin?
 Coins are digital assets that are designed to function as a medium of exchange and a store of value. They are typically designed to be used as a digital currency, and are often used to facilitate transactions and transfers of value on the blockchain. Examples of coins include Bitcoin, Ethereum, and Litecoin.
 
