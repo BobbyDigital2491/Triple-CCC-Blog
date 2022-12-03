@@ -1,7 +1,7 @@
 ---
 title: What is staking?
 excerpt: 'Bitcoin is a decentralized digital currency that can be transferred on the peer-to-peer bitcoin network. Bitcoin transactions are verified by network nodes through cryptography and recorded in a public distributed ledger called a blockchain. ...'
-coverImage: '/assets/blog/preview/stalking.pngg'
+coverImage: '/assets/blog/preview/stake.png'
 date: '2020-06-24T05:35:07.322Z'
 author: 
   name: Robert Lawrence (CTO & Lead Developer)
