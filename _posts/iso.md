@@ -1,6 +1,6 @@
 ---
 title: ISO 20022 and Crypto?
-excerpt: 'Bitcoin is a decentralized digital currency that can be transferred on the peer-to-peer bitcoin network. Bitcoin transactions are verified by network nodes through cryptography and recorded in a public distributed ledger called a blockchain. ...'
+excerpt: 'ISO 20022 is an international standard for financial services messaging that is used by banks ...'
 coverImage: '/assets/blog/preview/iso.png'
 date: '2020-06-24T05:35:07.322Z'
 author: 
