@@ -1,7 +1,7 @@
 ---
 title: Blockchain Fundamentals
 excerpt: 'Blockchain technology has the potential to revolutionize various industries........'
-coverImage: '/assets/blog/preview/bit.jpg'
+coverImage: '/assets/blog/preview/1_mNdCyhj2WRSzmgTOVztaUg.png'
 date: '2020-06-24T05:35:07.322Z'
 author: 
   name: Robert Lawrence (CTO & Lead Developer)
